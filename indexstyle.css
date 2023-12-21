@@ -1,0 +1,20 @@
+
+/*Indexing Style for index.html (Odin Recipes Homepage */
+
+#title {
+    color: white;    
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700
+}
+
+p {
+    color: white;
+    background-color: green;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+
